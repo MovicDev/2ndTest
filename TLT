@@ -1,0 +1,12 @@
+SECTION A
+
+(1). What is an Array ?
+Array  is  use to store data.It store multiple things in a single line of code and make it maintain and easy to understand.It can contain datatype which include, Strings, number, boolean.
+<!-- Five Array Methods -->
+a. pop() = "This Remove the  Last element array from back"
+b. shift() = "This Removes the first element from an array "
+c. push() = "This Add new elements at the End of an array"
+d. unshift() = "This Add new elements at the start of an array"
+e. reverse() = "This Reverses elements in an array in place.from end to start " 
+
+
